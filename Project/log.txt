@@ -1,0 +1,180 @@
+1691477151771 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691477151771 covid_data.csv
+1691477151899 properties.csv
+1691477158466 population.csv
+1691477162970 1
+1691490347419 2
+1691490712537 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691490712537 covid_data.csv
+1691490712657 properties.csv
+1691490717170 population.csv
+1691490720085 1
+1691492290931 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691492290931 covid_data.csv
+1691492291043 properties.csv
+1691492296979 population.csv
+1691492300030 1
+1691492301687 0
+1691492585096 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691492585096 covid_data.csv
+1691492585208 properties.csv
+1691492589814 population.csv
+1691492592819 1
+1691492593705 0
+1691494173754 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691494173770 covid_data.csv
+1691494173893 properties.csv
+1691494179871 population.csv
+1691494182221 1
+1691494184841 0
+1691499602763 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691499602763 covid_data.csv
+1691499602874 properties.csv
+1691499608910 population.csv
+1691499611297 1
+1691499612676 2
+1691503494240 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691503494240 covid_data.csv
+1691503494353 properties.csv
+1691503498805 population.csv
+1691503501027 1
+1691503502684 0
+1691505488989 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691505489005 covid_data.csv
+1691505489100 properties.csv
+1691505493784 population.csv
+1691505503804 1
+1691505507131 0
+1691505649734 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691505649749 covid_data.csv
+1691505649874 properties.csv
+1691505655824 population.csv
+1691505658445 1
+1691505659998 2
+1691505662490 3
+1691505665427 full
+1691505670678 2021-01-01
+1691506159661 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691506159661 covid_data.csv
+1691506159773 properties.csv
+1691506164228 population.csv
+1691506166503 1
+1691506167997 0
+1691508864057 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691508864057 covid_data.csv
+1691508864169 properties.csv
+1691508868626 population.csv
+1691508870650 1
+1691508875293 1
+1691508886774 4
+1691508891653 19002
+1691508894724 0
+1691508916196 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691508916212 covid_data.csv
+1691508916324 properties.csv
+1691508920917 population.csv
+1691508929851 5
+1691508932254 19116
+1691508938515 4
+1691508940484 19116
+1691508947209 6
+1691508949055 19116
+1691508951843 7
+1691508953787 19116
+1691510978912 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691510978929 covid_data.csv
+1691510979044 properties.csv
+1691510983654 population.csv
+1691510989145 1
+1691510990812 2
+1691510995557 0
+1691511181884 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691511181899 covid_data.csv
+1691511181994 properties.csv
+1691511186378 population.csv
+1691511188583 8
+1691511191456 2
+1691511193581 0
+1691511755994 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691511756002 covid_data.csv
+1691511756112 properties.csv
+1691511762769 population.csv
+1691511765186 1
+1691511767578 7
+1691511772037 19104
+1691511775271 0
+1691511923245 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691511923260 covid_data.csv
+1691511923357 properties.csv
+1691511927739 population.csv
+1691511930790 1
+1691511934249 2
+1691511936432 0
+1691512854480 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691512854496 covid_data.csv
+1691512854598 properties.csv
+1691512858950 population.csv
+1691512884730 1
+1691512886664 3
+1691512890744 partical
+1691512895304 partial
+1691512900011 2020-06-04
+1691512902797 0
+1691513256341 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691513256341 covid_data.csv
+1691513256458 properties.csv
+1691513261340 population.csv
+1691513264130 2
+1691513266571 0
+1691513355678 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691513355694 covid_data.csv
+1691513355817 properties.csv
+1691513360516 population.csv
+1691513362900 1
+1691513367486 2
+1691513369145 7
+1691513373142 191032
+1691513376103 19106
+1691513378320 0
+1691557898894 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691557898919 covid_data.csv
+1691557899186 properties.csv
+1691557908584 population.csv
+1691557911913 1
+1691557913236 0
+1691558887539 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691558887555 covid_data.csv
+1691558887738 properties.csv
+1691558894715 population.csv
+1691558897576 1
+1691558900126 2
+1691558904536 0
+1691558985813 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691558985829 covid_data.csv
+1691558986012 properties.csv
+1691558994718 population.csv
+1691559000677 1
+1691559023958 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691559023968 covid_data.csv
+1691559024142 properties.csv
+1691559030698 population.csv
+1691559033227 1
+1691559062252 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691559062252 covid_data.csv
+1691559062427 properties.csv
+1691559071380 population.csv
+1691559073431 1
+1691559078439 2
+1691559491043 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691559491066 covid_data.csv
+1691559491240 properties.csv
+1691559500392 population.csv
+1691559502475 1
+1691559505270 2
+1691559555299 0
+1691560889702 --population=population.csv --covid=covid_data.csv --properties=properties.csv --log=log.txt
+1691560889718 covid_data.csv
+1691560889880 properties.csv
+1691560895400 population.csv
+1691560897262 1
+1691560898726 2
